@@ -11,4 +11,4 @@ Hозробка "Simple Site" за макетом Figma
 
 ## 🔗 Посилання
 
-()
+(https://ecaterini.github.io/homework-9-yakovenko/)
